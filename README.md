@@ -9,8 +9,8 @@ Finally, it includes a section for **Frequently Asked Questions (FAQs)**.
 This is a **responsive** project, ensuring a seamless experience across different devices and screen sizes.  
 
 
-## 🎥 Demo  
-Here is a short demo of how the project works: 
+## 🎥 Preview  
+
 ![Image](https://github.com/user-attachments/assets/223816dd-c793-4258-9104-3c1997426f19)
 
 
